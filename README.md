@@ -2,7 +2,7 @@
 
 Aspiring Java Full Stack Developer from India
 
-<!--
+
 **Gowthu2337/Gowthu2337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with strengthening Data Structures and Algorithms and adavanced Spring Boot concepts...
 - 💬 Ask me about Java, spring Boot, Sql, REST APIs, Devops ...
 - 📫 How to reach me: gowthamnayakm06@gmail.com ...
--->
