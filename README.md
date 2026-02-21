@@ -3,7 +3,7 @@
 Aspiring Java Full Stack Developer from India
 
 
-**Gowthu2337/Gowthu2337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’m currently working on Web Application Deployment to Apache Tomcat Tech: AWS, Linux, Git and GitHub, Maven, Jenkins,Apache Tomcat
 - 🌱 I’m currently learning Java Full Stack Development, Spring Boot, Sql, Aws Deployment
